@@ -1,0 +1,31 @@
+{
+  "name": "bmw-configuration-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JohnSheff/bmw-configuration-bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JohnSheff/bmw-configuration-bot/issues"
+  },
+  "homepage": "https://github.com/JohnSheff/bmw-configuration-bot#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "file-type": "latest",
+    "node-fetch": "^2.6.0",
+    "node-telegram-bot-api": "^0.40.0",
+    "node-xlsx": "^0.15.0",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.5",
+    "telegraf": "^3.34.1",
+    "turl": "^1.1.2"
+  }
+}
