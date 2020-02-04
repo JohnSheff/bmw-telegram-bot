@@ -25,4 +25,3 @@ https://telegram-bot-bmw.herokuapp.com/
 - Вадим - Парсинг Xmls файла. (https://github.com/vad-s)
 - Айдын - Создание Ссылки для работы с BMW-Configurator. (https://github.com/AidynSC)
 - Костантин - Работа с заказщиком. (https://github.com/MeowRei)
-
