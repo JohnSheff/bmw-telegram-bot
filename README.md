@@ -20,10 +20,9 @@ https://telegram-bot-bmw.herokuapp.com/
     
 Так же после обработки файла конфигурации автомобиля возвращает ссылку на сайт BMW с собранной конфигурацией согласно файлу конфигурации, а также присылает фото данной конфигурации.
 
-Наша команда.
-
-Евгений - Тим-Лид Создание телеграмм Бота и работа с Telegraf и Heroku. (https://github.com/JohnSheff)
-Вадим - Парсинг Xmls файла. (https://github.com/vad-s)
-Айдын - Создание Ссылки для работы с BMW-Configurator. (https://github.com/AidynSC)
-Костантин - Работа с заказщиком. (https://github.com/MeowRei)
+Наша команда:
+- Евгений - Тим-Лид Создание телеграмм Бота и работа с Telegraf и Heroku. (https://github.com/JohnSheff)
+- Вадим - Парсинг Xmls файла. (https://github.com/vad-s)
+- Айдын - Создание Ссылки для работы с BMW-Configurator. (https://github.com/AidynSC)
+- Костантин - Работа с заказщиком. (https://github.com/MeowRei)
 
